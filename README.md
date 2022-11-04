@@ -12,6 +12,12 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using React Component Variants to Compose CSS Classes](https://devinschulz.com/using-react-component-variants-to-compose-css-classes/)
+- [My Definition of a First-Class Pull Request](https://devinschulz.com/my-definition-of-a-first-class-pull-request/)
+- [Handling an Event Callback Once](https://devinschulz.com/handling-an-event-callback-once/)
+- [Rename Fields by Using Aliases in GraphQL](https://devinschulz.com/rename-fields-by-using-aliases-in-graphql/)
+- [Filter Out Multiple Console Messages in Google Chrome](https://devinschulz.com/filter-out-multiple-console-messages-in-google-chrome/)
+- [Restrictions While Styling Visited Links](https://devinschulz.com/restrictions-while-styling-visited-links/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
