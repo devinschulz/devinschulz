@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, or TypeScript**
 
-- ⚡ Fun fact **I have 14 chickens 🐓**
+- ⚡ Fun fact **I have 16 chickens 🐓**
 
 ### Blogs posts
 
