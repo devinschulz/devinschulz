@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Devin</h1>
 <h3 align="center">A UI/UX enthusiast and front end developer from Ottawa, Canada</h3>
 
-- 🔭 I’m currently working on building the core product at [Cape Privacy](https://capeprivacy.com)
+- 🔭 I’m currently working on building the core product at [Stripe](https://stripe.com)
 
 - 📝 I sometimes write articles on [https://devinschulz.com](https://devinschulz.com)
 
 - 💬 Ask me about **React, JavaScript, or TypeScript**
 
-- ⚡ Fun fact **I have 16 chickens 🐓**
+- ⚡ Fun fact **I have 13 chickens 🐓**
 
 ### Blogs posts
 
